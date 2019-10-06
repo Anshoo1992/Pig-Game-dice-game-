@@ -3,7 +3,7 @@ Pig (Dice game)
 
 GAME RULES:
 
-- The game has 2 players, playing in rounds with two dices
+- The game has 2 players, playing in rounds with two dice
 - Final Score input field where players can set the winning score
 - In each turn, a player rolls dices as many times as he whishes. Each result get added to his ROUND score
 - BUT, if the player rolls any one of the dice to 1, all his ROUND score gets lost. After that, it's the next player's turn
